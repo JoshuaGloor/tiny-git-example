@@ -1,2 +1,6 @@
+def more_fun():
+    print("More fun!")
+
+
 if __name__ == "__main__":
-    print("Fun stuff!")
+    more_fun()
